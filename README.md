@@ -38,4 +38,4 @@ If the 5 output graphs do not display correctly, try running each graph separate
 
 **Original Article**
 
-Warecki, B. and Tao, L. 2023. Centralspindlin-mediated transport and retention rapidly accumulates RhoGEF at microtubule plus-ends
+Warecki, B. and Tao, L. 2023. Centralspindlin-mediated transport and retention rapidly accumulates RhoGEF at microtubule plus-ends.
