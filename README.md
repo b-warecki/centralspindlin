@@ -4,7 +4,7 @@
 
 ...
 
-**Installation**
+**Requirements**
 
 This code runs in R (https://www.r-project.org/)
 
@@ -30,4 +30,12 @@ install.packages("RColorBrewer")
 
 **Usage**
 
-The code can be run in its entirety 
+The code should be run in its entirety: within the downloaded script document, command-A then command-Enter.
+
+Output is 3 unsaved dataframes and 5 saved graphs.
+
+If the 5 output graphs do not display correctly, try running each graph separately (no need to run the simulations again).
+
+**Original Article**
+
+Warecki, B. and Tao, L. 2023. Centralspindlin-mediated transport and retention rapidly accumulates RhoGEF at microtubule plus-ends
