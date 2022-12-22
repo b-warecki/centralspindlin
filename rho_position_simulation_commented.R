@@ -1,4 +1,4 @@
-#associated with Figure S1 for "Centralspindlin-mediated transport and retention rapidly accumulates RhoGEF at microtubule plus-ends" (Warecki and Tao, 2023)
+#associated with Figure S1 for "Cleavage plane positioning by centralspindlin-mediated RhoGEF transport" (Warecki and Tao, 2023)
 #please direct questions to: bwarecki@ucsc.edu
 #this simulation will determine the distribution of Centralspindin-RhoGEF molecules along a microtubule over time
 
