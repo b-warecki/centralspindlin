@@ -32,9 +32,13 @@ install.packages("RColorBrewer")
 
 The code should be run in its entirety: within the downloaded script document, command-A then command-Enter.
 
+It should take ~<5-10 min to run.
+
 Output is 3 unsaved dataframes and 5 saved graphs.
 
 If the 5 output graphs do not display correctly, try running each graph separately (no need to run the simulations again).
+
+This code was originally run on a Macbook Pro (macOS Big Sur 11.2.3) in R (4.0.5) with ggplot2 (3.3.5), dplyr (1.0.7), and RColorBrewer (1.1-3).
 
 **Original Article**
 
