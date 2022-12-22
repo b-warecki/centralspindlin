@@ -6,7 +6,7 @@
 
 **Requirements**
 
-This code runs in R (https://www.r-project.org/)
+This code (rho_position_simulation_commented.R) runs in R (https://www.r-project.org/)
 
 ...
 
