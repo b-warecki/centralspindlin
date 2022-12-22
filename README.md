@@ -28,6 +28,8 @@ install.packages("dplyr")
 install.packages("RColorBrewer")
 ```
 
+Installation should take <5 min.
+
 **Usage**
 
 The code should be run in its entirety: within the downloaded script document, command-A then command-Enter.
