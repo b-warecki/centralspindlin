@@ -42,4 +42,4 @@ This code was originally run on a Macbook Pro (macOS Big Sur 11.2.3) in R (4.0.5
 
 **Original Article**
 
-Warecki, B. and Tao, L. 2023. Centralspindlin-mediated transport and retention rapidly accumulates RhoGEF at microtubule plus-ends.
+Warecki, B. and Tao, L. 2023. Cleavage plane positioning by centralspindlin-mediated RhoGEF transport.
